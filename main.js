@@ -122,7 +122,7 @@ function clearTmp() {
 }
 
 const hehe = async (jid, options) => {
-  let wm = 'ꜰᴀɴɢᴢ xᴅ';
+  let wm = 'ꜰNaufal Muflih';
   let gambar = 'https://telegra.ph/file/2d06f0936842064f6b3bb.png';
   try {
     gambar = await conn.profilePictureUrl(jid, 'image');
@@ -146,7 +146,7 @@ const hehe = async (jid, options) => {
         }
       }
     }
-    const txt = `\n[ ✅ ] Hallo Owner @${jid.split`@`[0]}, Saya berhasil tersambung ke script mu...\n\n\n📑Sumber Script:\nhttps://tinyurl.com/2apdztcj`
+    const txt = `\n[ ✅ ] Hallo Owner @${jid.split`@`[0]}, Saya berhasil tersambung ke script mu...\n\n\n📑Sumber Script:\nhttps://www.youtube.com/channel/UC1esKQw-DKM5Xa5hF7vqdGA`
     return await conn.sendMessage(jid, { text: txt, mentions: [jid], ...options }, { quoted: fkontak, ephemeralExpiration: 86400, ...options })
   }
 }
