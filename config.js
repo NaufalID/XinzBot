@@ -506,8 +506,7 @@ global.fpagedoc = '1'.repeat(10)
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
 global.stickpack = 'YT: naufal muflih'
 global.stickauth = `© whatsapp BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By naufalmuflih
-'
+global.packname = 'By naufalmuflih'
 
 
 global.multiplier = 38 // The higher, The harder levelup
