@@ -6,9 +6,7 @@ let handler = async (m, { conn, text, usedPrefix }) => {
   〔 llı OWNER ${namebot} ıll 〕
     
 Nama: ${nameowner}
-Umur: ${umurowner}
 Asal: ${asalowner}
-Pacar: ${pacarowner}
 
 Nomor: ${nomorowner}
 
@@ -20,7 +18,7 @@ ${botdate}
     return conn.sendButton(m.chat, hiasan, sewa, img1, [["menu", usedPrefix + "menu"], ["profile", usedPrefix + "profile"]], m, {
         contextInfo: {
             externalAdReply: {
-                mediaUrl: "https://instagram.com/aguzfamilia",
+                mediaUrl: "https://www.instagram.com/nauffhdkz ",
                 mediaType: "VIDEO",
                 title: hiasan,
                 body: bottime,
