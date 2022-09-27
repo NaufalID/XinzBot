@@ -48,7 +48,7 @@ if (!text) throw `Teksnya?`
 {"productMessage": {
 "product": {
 		"productImage": {
-		 "url": "https://wa.me/p/5240667609353116/62895394988123",
+		 "url": "https://wa.me/p/5240667609353116/6289601124991",
 "mimetype": "image/jpeg",
 "fileSha256": "nDM/acIuR4SDh/ZKrS8ysfYlM2Z/RgAuikg9Bj1jK+s=",
 "fileLength": "12295",
